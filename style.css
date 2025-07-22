@@ -42,13 +42,13 @@
 /* lives start */
 .lives{
     display: flex;
-    justify-content: space-evenly;
+    justify-content:center;
     gap: 94px;
     padding: 100px;
 }
 .lives-1{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     gap: 94px;
     padding: 100px;
 }
@@ -74,20 +74,18 @@
     
 }
 .l-img{
-    width: 80%;
-    height: 100%;
-      
+    width: 60%;
 }
 .l-img img{
     width: 80%;
     border-radius: 5px;
 }
 .lives-img{
-    width: 80%;
-    height: 100%;
+    width: 500px;
+    height: 500px;
 }
 .lives-img img{
-    width: 80%;
+    width: 500px;
     border-radius: 5px;
 }
 /* lives end */
