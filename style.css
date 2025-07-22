@@ -156,3 +156,61 @@
     color: #707070;
 }
 /* donation end */
+/* charity start */
+.charity{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.charity h2{
+    font-family: "Inter", sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    color: #121212;
+    margin-bottom: 20px;
+}
+.charity p{
+    color: #707070;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.c-box{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    border-radius: 10px 10px 0px 0px;
+    
+}
+.c-box1{
+    border: 1px solid #D9D9D9;
+    border-radius: 10px;
+}
+.c-box1 img{
+    margin-bottom: 28px;
+}
+.c-box1 h4{
+    color: #121212;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 18px;
+    margin-bottom: 10px;
+}
+.c-box1 p{
+    font-family: "Poppins", sans-serif;
+    margin-left: 18px;
+    margin-bottom: 30px;
+    color: #707070;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.c-box1 a{
+    font-family: "Inter", sans-serif;
+    margin-left: 18px;
+    color: #EF233C;
+    font-size: 20px;
+    font-weight: 600;
+}
+/* charity end */
