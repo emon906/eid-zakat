@@ -180,6 +180,7 @@
     justify-content: center;
     gap: 24px;
     border-radius: 10px 10px 0px 0px;
+    margin-bottom: 130px;
     
 }
 .c-box1{
@@ -212,5 +213,29 @@
     color: #EF233C;
     font-size: 20px;
     font-weight: 600;
+    margin-bottom: 40px;
 }
 /* charity end */
+/* footer start */
+footer{
+    text-align: center;
+    padding: 43px 605px 42px 653px;
+    background: var(--Default-Black, #0B0D17);
+}
+footer h2{
+    font-family: "Lobster", sans-serif;
+    margin-bottom: 24px;
+    color: #EF233C;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 44px;
+
+}
+footer p{
+    font-family: "Manrope", sans-serif;
+    color:  var(--Text-Gray-300, #D9DBE1);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+}
+/* footer end */
